@@ -1,3 +1,16 @@
+my first react app with authentication. 
+Back-end for auth and data storing is FIREBASE
+credit to net ninja for functionality idea
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
